@@ -1,3 +1,5 @@
+<img width="968" height="549" alt="image" src="https://github.com/user-attachments/assets/e0135db2-22e7-4f41-9081-22cb0b01788a" />
+
 # Hệ thống Phát hiện Gian lận trong Giao dịch Ngân hàng
 
 ## 📝 Mô tả dự án
